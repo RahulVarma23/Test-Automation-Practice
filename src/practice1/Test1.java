@@ -16,6 +16,8 @@ public class Test1 {
 	   char b = (char) a;
 	   
 	   System.out.println(b);
+	   
+	   System.out.println("test1");
 	    
 	 }
 }
